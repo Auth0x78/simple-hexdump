@@ -11,11 +11,6 @@ This hexdump utility reads a binary file and prints its contents in both hexadec
 - Allows customization of bytes displayed per row (1-32).
 - Provides clear error messages for common issues.
 
-## Requirements
-
-- C++ compiler
-- Standard C++ libraries
-
 ## Usage   
    
 ```sh
