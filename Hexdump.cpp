@@ -1,6 +1,7 @@
 ﻿#include <iostream>
 #include <stdio.h>
 #include <fstream>
+#include <cstdint>
 
 #define ERROR_EXIT(MSG, EXIT_CODE) { std::cerr << MSG << std::endl; exit(EXIT_CODE); }
 
